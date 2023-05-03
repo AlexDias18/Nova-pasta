@@ -1,0 +1,60 @@
+body{
+    background-image:linear-gradient(to left,rgb(23, 39, 114),rgb(20, 32, 148),rgb(0, 4, 255));
+    }
+    div#epc{
+
+        background-image:linear-gradient(to left,rgb(248, 252, 0),rgb(219, 209, 61),rgb(251, 255, 0));
+        width: 600px;
+        height: 20px;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        padding: 40px;
+    }
+    div#veloc{
+        width: 160px;
+        height: 70px;
+        background: red;
+        text-align: center;
+        padding-top: 20px;
+        border-radius: 50px;
+        margin-left: 10px;     
+        display: inline-block;   
+    }
+    div#rst{
+    
+        background: rgb(253, 253, 253);
+        width: 100px;
+        height: 120px;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        padding: 30px;
+        border-radius: 10px;
+        font-style: 20px;
+        display: inline-block;
+        margin-left: 20px;
+        
+        
+    }
+    
+    h1{
+        background-color: white;
+        width: 200px;
+        height: 80px;
+    }
+    input#txtvel1{
+        width: 110px;
+        height: 100px;
+        text-align: center;
+        font-size: 50pt;
+        margin-left: 50px;
+    }
+    input#btnres{
+
+        width: 68px;
+        height: 50px;
+        
+    }
+    
+    
+    
+    
